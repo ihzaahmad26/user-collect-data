@@ -1,5 +1,6 @@
 [
-	{"username": "superadmin", "password": "admin"},
-	{"username": "user", "password": "pass"}
+	{"password": "admin"},
+	{"password": "pass"}
 
 ]
+
